@@ -58,7 +58,7 @@
   
 ## 논문
 - 인공지능 기반의 약물 복용 환자의 위장관 출혈 예측 모델 (ACK)
-- Source Identification of 3D Printer Based on Layered Texture Encoders (IEEE on Multimedia) [Unser review]
+- Source Identification of 3D Printer Based on Layered Texture Encoders (IEEE on Multimedia) [Under review]
 
   
  ## **~ing** 
