@@ -6,8 +6,8 @@
   - 전공 : 빅데이터 <br>
   - 부전공 : AI로봇융합 <br>
 - **Email** : jae_apple@naver.com
-- **Notion** : https://www.notion.so/Jay-s-Notion-0ed2c9b6f92b4d35b1fc64cb340449fe
-- **Linkedin** : https://www.linkedin.com/in/jaehong-choe-460831251/
+- **Notion** : [Jay's Notion](https://www.notion.so/Jay-s-Notion-0ed2c9b6f92b4d35b1fc64cb340449fe)
+- **Linkedin** : [Jay's Linkedin](https://www.linkedin.com/in/jaehong-choe-460831251/)
 ---
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
