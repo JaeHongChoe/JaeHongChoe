@@ -2,9 +2,6 @@
 
 ## 인적사항
 - **이름** : 최재홍 <br>
-- **소속** : <br>
-  - 전공 : 빅데이터 <br>
-  - 부전공 : AI로봇융합 <br>
 - **Email** : jae_apple@naver.com
 - **Notion** : [Jay's Notion](https://www.notion.so/Jay-s-Notion-0ed2c9b6f92b4d35b1fc64cb340449fe)
 - **Linkedin** : [Jay's Linkedin](https://www.linkedin.com/in/jaehong-choe-460831251/)
