@@ -54,7 +54,7 @@
   Github Page : https://github.com/JaeHongChoe/capstone
   
 ## 논문
-- 인공지능 기반의 약물 복용 환자의 위장관 출혈 예측 모델 (ACK) [(Paper)](http://koreascience.or.kr/article/CFKO202233649535454.page)
+- 인공지능 기반의 약물 복용 환자의 위장관 출혈 예측 모델 (ACK) [(Paper)](http://koreascience.or.kr/article/CFKO202233649535454.page) | [(Code)](https://github.com/JaeHongChoe/2021_capstone)
 - Source Identification of 3D Printer Based on Layered Texture Encoders (IEEE Transactions on Multimedia) [(Paper)](https://ieeexplore.ieee.org/document/10005625) | [(Code)](https://github.com/juhou/SI3DPpp)
 
   
