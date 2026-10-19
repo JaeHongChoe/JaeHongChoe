@@ -60,30 +60,17 @@
   - DACON 생육 환경 최적화 경진대회(27/137)
   - 제5회 KB국민은행 소프트웨어 경진대회(장려상)
   - ACK 2022 우수 논문상
-## 개인,팀 프로젝트
-- **2025~ (MiCo AI)**
-  - MES 입고 이력 기반 처리 판정 모델과 재학습 안전장치
+## 프로젝트
+- 2025 ~ 현재 · MiCo AI
+  - [MES 처리 판정과 재학습 안전장치](https://github.com/JaeHongChoe/industrial-mes-continual-learning) — 늦게 확정되는 라벨, 미래 정보 누수 차단
+  - [외관 결함 패치 분류](https://github.com/JaeHongChoe/industrial-visual-qc-dinov3) — 원본 해상도 패치 + DINOv3
+  - [라인스캔 엠보 검사 엔진](https://github.com/JaeHongChoe/industrial-emboss-inspection-linescan) — 8억 화소 이미지 전수 검사, 딥러닝 없이
+  - [초음파 이상 영역 분할](https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation) — 결함 샘플이 거의 없는 환경, DRAEM
+  - [X-ray 구조 자동 계측](https://github.com/JaeHongChoe/industrial-xray-geometry-measurement) — 규칙 기반 + V홀만 YOLOv8
+  - 멀티뷰 MIL + VLM 불량 판정 — 비공개, 과검 28~33% 감소
+- 학부
+  - [GAN 기반 의료 영상 증강](https://github.com/JaeHongChoe/capstone) — CT 데이터 부족 문제, U-Net·FPN 비교
 
-    Github Page : https://github.com/JaeHongChoe/industrial-mes-continual-learning
-  - 다품종 부품 외관 결함 패치 분류 (DINOv3)
-
-    Github Page : https://github.com/JaeHongChoe/industrial-visual-qc-dinov3
-  - 1800DPI 라인스캔 엠보 외관 검사 엔진
-
-    Github Page : https://github.com/JaeHongChoe/industrial-emboss-inspection-linescan
-  - 초음파 이미지 이상 영역 분할 (DRAEM)
-
-    Github Page : https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation
-  - X-ray 부품 구조 자동 계측
-
-    Github Page : https://github.com/JaeHongChoe/industrial-xray-geometry-measurement
-  - 멀티뷰 MIL + VLM 반입 부품 불량 판정 (비공개)
-- **학부**
-  - GAN-based Synthetic Medical Image Augmentation for increased CNN Performance
-
-    Github Page : https://github.com/JaeHongChoe/capstone
-  
-  
 ## 논문
 - Validation of a machine learning model for predicting gastrointestinal bleeding in patients with direct oral anticoagulants (Scandinavian Journal of Gastroenterology, 2025) [(Paper)](https://doi.org/10.1080/00365521.2025.2565321)
 - Source Identification of 3D Printer Based on Layered Texture Encoders (IEEE Transactions on Multimedia) [(Paper)](https://ieeexplore.ieee.org/document/10005625) | [(Code)](https://github.com/juhou/SI3DPpp)
