@@ -61,9 +61,27 @@
   - 제5회 KB국민은행 소프트웨어 경진대회(장려상)
   - ACK 2022 우수 논문상
 ## 개인,팀 프로젝트
-- GAN-based Synthetic Medical Image Augmentation for increased CNN Performance
+- **2025~ (MiCo AI)**
+  - MES 입고 이력 기반 처리 판정 모델과 재학습 안전장치
 
-  Github Page : https://github.com/JaeHongChoe/capstone
+    Github Page : https://github.com/JaeHongChoe/industrial-mes-continual-learning
+  - 다품종 부품 외관 결함 패치 분류 (DINOv3)
+
+    Github Page : https://github.com/JaeHongChoe/industrial-visual-qc-dinov3
+  - 1800DPI 라인스캔 엠보 외관 검사 엔진
+
+    Github Page : https://github.com/JaeHongChoe/industrial-emboss-inspection-linescan
+  - 초음파 이미지 이상 영역 분할 (DRAEM)
+
+    Github Page : https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation
+  - X-ray 부품 구조 자동 계측
+
+    Github Page : https://github.com/JaeHongChoe/industrial-xray-geometry-measurement
+  - 멀티뷰 MIL + VLM 반입 부품 불량 판정 (비공개)
+- **학부**
+  - GAN-based Synthetic Medical Image Augmentation for increased CNN Performance
+
+    Github Page : https://github.com/JaeHongChoe/capstone
   
   
 ## 논문
