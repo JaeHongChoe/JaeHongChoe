@@ -85,8 +85,9 @@
   
   
 ## 논문
-- 인공지능 기반의 약물 복용 환자의 위장관 출혈 예측 모델 (ACK) [(Paper)](http://koreascience.or.kr/article/CFKO202233649535454.page) | [(Code)](https://github.com/JaeHongChoe/2021_capstone)
+- Validation of a machine learning model for predicting gastrointestinal bleeding in patients with direct oral anticoagulants (Scandinavian Journal of Gastroenterology, 2025) [(Paper)](https://doi.org/10.1080/00365521.2025.2565321)
 - Source Identification of 3D Printer Based on Layered Texture Encoders (IEEE Transactions on Multimedia) [(Paper)](https://ieeexplore.ieee.org/document/10005625) | [(Code)](https://github.com/juhou/SI3DPpp)
+- 의료 데이터 불균형 문제 해결을 위한 생성적 적대 신경망 기반 데이터 증강 (ACK 2022) [(Paper)](http://koreascience.or.kr/article/CFKO202233649535454.page) | [(Code)](https://github.com/JaeHongChoe/SMIAIP)
 
   
  ## **~ing**
