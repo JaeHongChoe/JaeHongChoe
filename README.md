@@ -14,16 +14,6 @@
 - **아하랩스** · 연구원 (2024.07 ~ 2025.03)
 - **MMCLab** · 연구원 인턴 (2022.09 ~ 2023.03), 학부연구생 (2021.06 ~ 2022.09)
 
-## 최근 프로젝트
-| 프로젝트 | 한 줄 소개 | 기술 |
-|---|---|---|
-| [MES 처리 판정 · 재학습 안전장치](https://github.com/JaeHongChoe/industrial-mes-continual-learning) | 입고 이력으로 공정 투입·반송·수리를 판정하는 학습 파이프라인. 처리 결과가 늦게 확정되는 데이터에서 미래 정보가 섞이지 않게 하고, 재학습 모델이 특정 고객사에서 나빠지면 교체를 막는 기준까지 포함 | LightGBM, scikit-learn |
-| [외관 결함 패치 분류 (DINOv3)](https://github.com/JaeHongChoe/industrial-visual-qc-dinov3) | 고해상도 원본을 축소하지 않고 패치 단위로 분류. 실제 불량은 기준을 정해 둔 뒤 마지막 평가에서만 사용 | PyTorch, DINOv3 |
-| [라인스캔 엠보 검사 엔진](https://github.com/JaeHongChoe/industrial-emboss-inspection-linescan) | 장당 약 8억 화소 이미지에서 표면 돌기 수천 개를 전수 검사. 딥러닝 없이 영상처리와 격자 통계로 구성 | OpenCV, SciPy |
-| [초음파 이상 영역 분할](https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation) | 결함 샘플이 거의 없는 초음파 이미지에서 정상 위주로 학습해 결함 위치를 찾는 DRAEM 모델 | PyTorch |
-| [X-ray 구조 자동 계측](https://github.com/JaeHongChoe/industrial-xray-geometry-measurement) | 부품 구조의 위치·편심을 자동 계산. V홀만 YOLOv8 + keypoint로 검출, 브라우저 데모 포함 | OpenCV, YOLOv8, ONNX |
-| 멀티뷰 MIL + VLM 불량 판정 (비공개) | 사진 여러 장을 묶어 보는 MIL로 1차 판정하고 애매한 건만 VLM이 재판정. 검증 데이터에서 과검 28~33% 감소 | PyTorch, Qwen-VL, LoRA |
-
 ---
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">Techs that I've used</p>
