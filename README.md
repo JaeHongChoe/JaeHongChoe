@@ -38,7 +38,9 @@
 
 ## Projects
 
-- **자율주행 데브코스** (Programmers, 2023.09 – 2024.02) — YOLOv7 Tiny를 TensorRT로 변환해 1:10 차량에 배포(약 40 FPS), Camera·LiDAR 센서 퓨전 실험 · [object detection](https://github.com/JaeHongChoe/Object_detection-Depth_estimation-project) · [sensor fusion](https://github.com/JaeHongChoe/Camera_3DLiDAR_Object_Detection)
+- **Modu Vision** (2026) — 데이터 준비·라벨링부터 학습, 평가, 검사 플로우, 모델 내보내기까지 한 화면에서 이어지는 데스크톱 비전 AI 스튜디오. 분류·분할·검출·이상탐지·OCR 등 10개 모델군, 로컬·원격 학습과 AutoDL 지원 (Electron·React, Python·FastAPI) · [repo](https://github.com/JaeHongChoe/modu-vision)
+- **자율주행 데브코스** (Programmers, 2023.09 – 2024.02) — YOLOv7 Tiny를 TensorRT로 변환해 1:10 차량에 배포(약 40 FPS), Camera·LiDAR 센서 퓨전, 차선 인식 주행
+  - [차선 인식 경진대회](https://github.com/JaeHongChoe/lane_detection_offline) · [Perception 팀 프로젝트](https://github.com/JaeHongChoe/lane_detection_online) · [객체 인식·거리 추정](https://github.com/JaeHongChoe/Object_detection-Depth_estimation-project) · [Camera·LiDAR 3D 검출](https://github.com/JaeHongChoe/Camera_3DLiDAR_Object_Detection) · [센서 퓨전 실험](https://github.com/JaeHongChoe/Sensor_fusion) · [ROS](https://github.com/JaeHongChoe/ROS_study)
 
 <br>
 
@@ -55,12 +57,12 @@
 
 - 국방 AI 경진대회 3등 · 국방부·과학기술정보통신부 · 2023.12
 - ACK 추계학술대회 우수 논문상 · 한국정보처리학회 · 2022.11
-- KB국민은행 소프트웨어 경진대회 장려상 · 2022.11
+- KB국민은행 소프트웨어 경진대회 장려상 · 2022.11 · [code](https://github.com/JaeHongChoe/Chatbot)
 - 한림대 빅데이터·AI 해커톤 최우수상 · 2022.04
-- 한림대 HBC-5 딥러닝 해커톤 1등 · 2021.11
+- 한림대 HBC-5 딥러닝 해커톤 1등 · 2021.11 · [code](https://github.com/JaeHongChoe/HBC-Hackathon)
 - 교내 Kaggle: 로봇 표면 탐지 1위(2022), 뇌신호 알파벳 분류 1위, 휴먼 액티비티 인식 2위(2021)
-- DACON: Computer Vision 이상치 탐지 67/481, 생육 환경 최적화 27/137(2022), 카메라 이미지 품질 향상 110/228(2021)
-- Kaggle: Body Morphometry Kidney and Tumor 10/27(2021)
+- DACON: [Computer Vision 이상치 탐지](https://github.com/JaeHongChoe/Computer_Vision_Anomaly_Detection_Algorithm) 67/481, [생육 환경 최적화](https://github.com/JaeHongChoe/Optimizing_the_Growth_Environment) 27/137(2022), [카메라 이미지 품질 향상](https://github.com/JaeHongChoe/Improving_the_quality_of_the_camera) 110/228(2021)
+- Kaggle: [Body Morphometry Kidney and Tumor](https://github.com/JaeHongChoe/Body_Morphometry_Kidney_and_Tumor) 10/27(2021)
 - 21 SW 아이디어 대회 동상
 
 <br>
