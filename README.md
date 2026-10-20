@@ -30,7 +30,7 @@
 
 **MMCLab, 한림대학교** · 연구원 · 2021.07 – 2023.03
 
-- **3D 프린팅 포렌식** — 출력물 표면 텍스처로 프린터를 식별하는 멀티모달 네트워크 설계, 장치 식별 정확도 95%. IEEE TMM 게재, 특허 등록 · [repo](https://github.com/juhou/SI3DPpp)
+- **3D 프린팅 포렌식** — 출력물 표면 텍스처로 프린터를 식별하는 멀티모달 네트워크 설계, 장치 식별 정확도 95%. IEEE TMM 공동 1저자 게재, 특허 등록 · [repo](https://github.com/juhou/SI3DPpp)
 - **의료 영상 데이터 증강** — Pix2Pix로 신장·종양 CT를 생성해 분할 학습에 추가, U-Net IoU 58% → 90% · [repo](https://github.com/JaeHongChoe/SMIAIP)
 - **위장관 출혈 예측** — DOAC 복용 환자 데이터로 AutoML 모델 비교·선정, 이후 외부 검증 연구로 SJG 2025 게재
 
@@ -47,7 +47,7 @@
 ## Publications & Patent
 
 - I. Kim, J.-U. Hou, **J. H. Choe**, et al. "Validation of a machine learning model for predicting gastrointestinal bleeding in patients with direct oral anticoagulants." *Scandinavian Journal of Gastroenterology*, 60(11), 2025. [[paper]](https://doi.org/10.1080/00365521.2025.2565321)
-- B. S. Shim, **J. H. Choe**, J.-U. Hou. "Source Identification of 3D Printer Based on Layered Texture Encoders." *IEEE Transactions on Multimedia*, vol. 25, 2023. [[paper]](https://ieeexplore.ieee.org/document/10005625) [[code]](https://github.com/juhou/SI3DPpp)
+- B. S. Shim\*, **J. H. Choe\***, J.-U. Hou. "Source Identification of 3D Printer Based on Layered Texture Encoders." *IEEE Transactions on Multimedia*, vol. 25, 2023. (\*공동 1저자) [[paper]](https://ieeexplore.ieee.org/document/10005625) [[code]](https://github.com/juhou/SI3DPpp)
 - **J.-H. Choe**, S.-L. Lee, Y.-J. Seo, W.-J. Seo, J.-U. Hou. "Generative Adversarial Networks Based Data Augmentation to Address Medical Data Imbalances." *KIPS Conference (ACK)*, 2022. 우수 논문상 [[paper]](http://koreascience.or.kr/article/CFKO202233649535454.page) [[code]](https://github.com/JaeHongChoe/SMIAIP)
 - 특허 10-2022-0122680 「3D 프린팅 된 객체의 이미지를 바탕으로 3D 프린터를 식별하는 신경망 기반의 전자 장치」, 2022
 
