@@ -59,15 +59,12 @@
 - 한림대 빅데이터·AI 해커톤 최우수상 · 2022.04
 - 한림대 HBC-5 딥러닝 해커톤 1등 · 2021.11
 
-<details>
-<summary>그 밖의 대회</summary>
+**그 밖의 대회**
 
 - 교내 Kaggle: 로봇 표면 탐지 1위(2022), 뇌신호 알파벳 분류 1위, 휴먼 액티비티 인식 2위(2021)
 - DACON: Computer Vision 이상치 탐지 67/481, 생육 환경 최적화 27/137(2022), 카메라 이미지 품질 향상 110/228(2021)
 - Kaggle: Body Morphometry Kidney and Tumor 10/27(2021)
 - 21 SW 아이디어 대회 동상
-
-</details>
 
 <br>
 
