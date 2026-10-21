@@ -17,7 +17,7 @@
 
 - **반입 부품 불량 판정** — 이미지 단위로 막혀 있던 과제를 제품 단위 MIL로 다시 정의하고, 1차 NG 후보만 VLM이 재판정하도록 구성. Recall을 유지한 채 과검 28~33% 감소, 사람 검토 결과를 LoRA 학습으로 연결 (비공개)
 - **MES 처리 판정과 재학습 안전장치** — 입고 이력으로 공정 투입·반송·수리를 판정하는 학습 파이프라인. 늦게 확정되는 라벨에서 미래 정보가 섞이지 않게 하고, 재학습 모델이 특정 고객사에서 나빠지면 교체를 막는 기준 설계 · [repo](https://github.com/JaeHongChoe/industrial-mes-continual-learning)
-- **외관 결함 패치 분류** — 원본 해상도 패치 분류, 정상 패치에 가성 결함 합성. 실제 불량은 기준 고정 후 마지막 평가에만 사용 · [repo](https://github.com/JaeHongChoe/industrial-visual-qc-dinov3)
+- **외관 결함 패치 분류** — 원본 해상도 패치 분류, 정상 패치에 가성 결함 합성. 실제 불량은 기준 고정 후 마지막 평가에만 사용 · [repo](https://github.com/JaeHongChoe/industrial-visual-qc-patch-classification)
 - **라인스캔 엠보 검사 엔진** — 장당 약 8억 화소 이미지에서 표면 돌기 수천 개를 전수 검사, 딥러닝 없이 영상처리와 격자 통계로 구성 (PoC 계수 일치율 99.9%) · [repo](https://github.com/JaeHongChoe/industrial-emboss-inspection-linescan)
 - **초음파 결함 분할** — 결함 샘플이 거의 없는 환경에서 정상 위주로 학습하는 DRAEM, 가성 결함 합성 · [repo](https://github.com/JaeHongChoe/industrial-draem-anomaly-segmentation)
 - **X-ray 구조 계측** — 원형 구조·핀·지그·V홀 자동 검출과 편심 계산, 브라우저 일괄 처리 PoC · [repo](https://github.com/JaeHongChoe/industrial-xray-geometry-measurement)
@@ -75,7 +75,7 @@
 
 ## Skills
 
-- **Modeling** PyTorch · DINOv2/v3 · MIL · DRAEM · U-Net · YOLOv7/v8 · LightGBM · scikit-learn
+- **Modeling** PyTorch · MIL · DRAEM · U-Net · YOLOv7/v8 · LightGBM · scikit-learn
 - **VLM** Qwen-VL · Ollama · ms-swift · LLaMA-Factory · LoRA · few-shot / RAG
 - **Vision** OpenCV · NumPy · 형태 분석 · 극좌표 변환 · FFT
 - **Deploy** ONNX · TensorRT · Docker · PyScript
